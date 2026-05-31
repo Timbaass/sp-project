@@ -1,0 +1,6 @@
+minifs
+minifs.exe
+*.o
+*.obj
+disk.bin
+test_disk.bin
